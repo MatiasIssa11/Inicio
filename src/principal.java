@@ -29,6 +29,7 @@ public class principal
     for(int i =0 ; i < h.length() ;i++){
         char c = h.charAt(i);
         System.out.println(c);
+        
     }
 }
 }
